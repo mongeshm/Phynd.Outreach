@@ -11295,17 +11295,17 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
             }
           }
         }

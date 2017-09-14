@@ -7066,8 +7066,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
             }
           }
         }

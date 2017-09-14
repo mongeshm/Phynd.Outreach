@@ -8637,11 +8637,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
             }
           }
         }

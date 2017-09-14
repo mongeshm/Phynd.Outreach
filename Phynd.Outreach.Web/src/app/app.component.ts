@@ -1,6 +1,9 @@
-﻿import { Component } from '@angular/core';
-import { outreachService } from '../../outreachservice/outreachservice.service';
-import { Campaign } from '../../../phynd.outreach.models/viewmodels/campaign';
+﻿/// <reference path="outreachservice/outreachservice.service.ts" />
+/// <reference path="outreachservice/outreachservice.service.ts" />
+
+import { Component } from '@angular/core';
+import { outreachService } from './outreachservice/outreachservice.service';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

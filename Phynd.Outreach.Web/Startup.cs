@@ -47,7 +47,8 @@ namespace Phynd.Outreach.Web
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseStaticFiles();
+      app.UseDefaultFiles();
+      app.UseStaticFiles();
 
             app.UseMvc(routes =>
             {

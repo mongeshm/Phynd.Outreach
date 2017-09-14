@@ -7106,14 +7106,14 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
             },
-            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
-              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
             }
           }
         }
