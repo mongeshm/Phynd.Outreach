@@ -1,5 +1,6 @@
 ﻿import { Component } from '@angular/core';
-
+import { outreachService } from '../../outreachservice/outreachservice.service';
+import { Campaign } from '../../../phynd.outreach.models/viewmodels/campaign';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -16,5 +17,9 @@ export class AppComponent {
 
     constructor() {
         this.data = this.source.slice();
+    }
+
+    ngOnInit() {
+       
     }
 }
