@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Swagger;
+using Phynd.Outreach.DataMgr;
+using MySQL.Data.EntityFrameworkCore.Extensions;
+using Phynd.Outreach.DataInterfaces;
+using Phynd.Outreach.BusinessMgr;
+using Phynd.Outreach.BusinessInterfaces;
 
 namespace Phynd.Outreach.WebAPI
 {
@@ -28,8 +29,16 @@ namespace Phynd.Outreach.WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<PhyndContext>(options =>
+                options.UseMySQL(Configuration.GetConnectionString("PhynderContext")));
+
             // Add framework services.
             services.AddMvc();
+            // Register application services.
+            services.AddScoped<IPhyndRepository, PhyndRepository>();
+            services.AddScoped<ICampaignManager, CampaignManager>();
+
+            services.AddSingleton<IConfiguration>(Configuration);
 
             // Register the Swagger generator
             services.AddSwaggerGen(c =>

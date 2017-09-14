@@ -2266,6 +2266,36 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Phynd.Outreach.BusinessInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2",
+          "Phynd.Outreach.Models": "1.0.0"
+        }
+      },
+      "Phynd.Outreach.DataInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2",
+          "Phynd.Outreach.DataModels": "1.0.0"
+        }
+      },
+      "Phynd.Outreach.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "Phynd.Outreach.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        }
       }
     }
   },
@@ -7029,11 +7059,34 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Phynd.Outreach.BusinessInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Phynd.Outreach.BusinessInterfaces/Phynd.Outreach.BusinessInterfaces.csproj",
+      "msbuildProject": "../Phynd.Outreach.BusinessInterfaces/Phynd.Outreach.BusinessInterfaces.csproj"
+    },
+    "Phynd.Outreach.DataInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Phynd.Outreach.DataInterfaces/Phynd.Outreach.DataInterfaces.csproj",
+      "msbuildProject": "../Phynd.Outreach.DataInterfaces/Phynd.Outreach.DataInterfaces.csproj"
+    },
+    "Phynd.Outreach.DataModels/1.0.0": {
+      "type": "project",
+      "path": "../Phynd.Outreach.DataModels/Phynd.Outreach.DataModels.csproj",
+      "msbuildProject": "../Phynd.Outreach.DataModels/Phynd.Outreach.DataModels.csproj"
+    },
+    "Phynd.Outreach.Models/1.0.0": {
+      "type": "project",
+      "path": "../Phynd.Outreach.Models/Phynd.Outreach.Models.csproj",
+      "msbuildProject": "../Phynd.Outreach.Models/Phynd.Outreach.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "Microsoft.NETCore.App >= 1.1.2"
+      "Microsoft.NETCore.App >= 1.1.2",
+      "Phynd.Outreach.BusinessInterfaces >= 1.0.0",
+      "Phynd.Outreach.DataInterfaces >= 1.0.0",
+      "Phynd.Outreach.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7052,7 +7105,17 @@
       ],
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
+            },
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
+            },
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            }
+          }
         }
       }
     },
