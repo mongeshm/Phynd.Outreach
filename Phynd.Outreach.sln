@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phynd.Outreach.BusinessMgr", "Phynd.Outreach.BusinessMgr\Phynd.Outreach.BusinessMgr.csproj", "{43B98B42-E47E-48E9-AD3E-4BBC46DA0F68}"
 EndProject
@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phynd.Outreach.BusinessInte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phynd.Outreach.DataInterfaces", "Phynd.Outreach.DataInterfaces\Phynd.Outreach.DataInterfaces.csproj", "{5515423F-6D20-414C-B838-CFC24F2A79E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phynd.Outreach.WebAPI", "Phynd.Outreach.WebAPI\Phynd.Outreach.WebAPI.csproj", "{96AEF4C4-D4CD-4530-A901-E39C798972B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phynd.Outreach.WebAPI", "Phynd.Outreach.WebAPI\Phynd.Outreach.WebAPI.csproj", "{96AEF4C4-D4CD-4530-A901-E39C798972B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phynd.Outreach.WebAPI.Tests", "Phynd.Outreach.WebAPI.Tests\Phynd.Outreach.WebAPI.Tests.csproj", "{BDF21A65-7016-4333-8F0E-80BFC89B2708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phynd.Outreach.DataModels", "Phynd.Outreach.DataModels\Phynd.Outreach.DataModels.csproj", "{2E67B6AE-76B2-4D8A-BE04-D13298A84637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{BDF21A65-7016-4333-8F0E-80BFC89B2708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF21A65-7016-4333-8F0E-80BFC89B2708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF21A65-7016-4333-8F0E-80BFC89B2708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E67B6AE-76B2-4D8A-BE04-D13298A84637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E67B6AE-76B2-4D8A-BE04-D13298A84637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E67B6AE-76B2-4D8A-BE04-D13298A84637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E67B6AE-76B2-4D8A-BE04-D13298A84637}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

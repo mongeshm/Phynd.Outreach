@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Phynd.Outreach.Models.DataModels
+namespace Phynd.Outreach.DataModels
 {
-    class CampaignTypes
+    public class CampaignTypes
     {
     }
 }
