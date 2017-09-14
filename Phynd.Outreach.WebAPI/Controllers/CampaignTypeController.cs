@@ -3,17 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Phynd.Outreach.BusinessInterfaces;
+using Microsoft.Extensions.Configuration;
 
 namespace Phynd.Outreach.WebAPI.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class CampaignTypeController : Controller
     {
+        private readonly ICampaignManager _ICampaignManager;
+        IConfiguration _IConfiguration;
+
+        public CampaignTypeController(ICampaignManager campaignManager, IConfiguration iConfiguration)
+        {
+            _ICampaignManager = campaignManager;
+            _IConfiguration = iConfiguration;
+        }
+
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<CampaignTypeDTO> Get()
         {
-            return new string[] { "value1", "value2" };
+            return _ICampaignManager.GetCampaignTypes();
+            //return new List<CampaignTypeDTO>() {
+            //    new CampaignTypeDTO() { CampaingTypeName = "Dummy" }};
         }
 
         // GET api/values/5

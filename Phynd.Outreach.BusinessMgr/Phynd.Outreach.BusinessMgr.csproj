@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Phynd.Outreach.BusinessInterfaces\Phynd.Outreach.BusinessInterfaces.csproj" />
+    <ProjectReference Include="..\Phynd.Outreach.DataInterfaces\Phynd.Outreach.DataInterfaces.csproj" />
+    <ProjectReference Include="..\Phynd.Outreach.Models\Phynd.Outreach.Models.csproj" />
+  </ItemGroup>
 
 </Project>
