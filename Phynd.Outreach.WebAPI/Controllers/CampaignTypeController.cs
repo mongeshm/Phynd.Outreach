@@ -25,15 +25,13 @@ namespace Phynd.Outreach.WebAPI.Controllers
         public IEnumerable<CampaignTypeDTO> Get()
         {
             return _ICampaignManager.GetCampaignTypes();
-            //return new List<CampaignTypeDTO>() {
-            //    new CampaignTypeDTO() { CampaingTypeName = "Dummy" }};
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return string.Empty;
         }
 
         // POST api/values
