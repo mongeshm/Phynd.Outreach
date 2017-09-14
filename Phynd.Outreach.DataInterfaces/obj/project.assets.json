@@ -7037,15 +7037,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
+    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj",
+      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj",
       "projectName": "Phynd.Outreach.DataInterfaces",
-      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj",
-      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\obj\\",
+      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj",
+      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

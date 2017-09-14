@@ -7037,15 +7037,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
+    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
+      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
       "projectName": "Phynd.Outreach.BusinessInterfaces",
-      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
-      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\obj\\",
+      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
+      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

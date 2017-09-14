@@ -7037,15 +7037,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
+    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
+      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
       "projectName": "Phynd.Outreach.DataMgr",
-      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
-      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\obj\\",
+      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
+      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
