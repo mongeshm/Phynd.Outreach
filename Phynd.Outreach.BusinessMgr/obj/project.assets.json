@@ -7090,15 +7090,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
+    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj",
       "projectName": "Phynd.Outreach.BusinessMgr",
-      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj",
-      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\obj\\",
+      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\Phynd.Outreach.BusinessMgr.csproj",
+      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessMgr\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7106,14 +7106,14 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj"
             },
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
             },
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
             }
           }
         }

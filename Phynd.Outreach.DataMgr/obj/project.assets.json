@@ -8621,15 +8621,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
+    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
       "projectName": "Phynd.Outreach.DataMgr",
-      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
-      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\obj\\",
+      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\Phynd.Outreach.DataMgr.csproj",
+      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataMgr\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8637,11 +8637,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataModels\\Phynd.Outreach.DataModels.csproj"
             },
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.DataInterfaces\\Phynd.Outreach.DataInterfaces.csproj"
             }
           }
         }

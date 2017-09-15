@@ -7050,15 +7050,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
+    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
       "projectName": "Phynd.Outreach.BusinessInterfaces",
-      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
-      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\obj\\",
+      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\Phynd.Outreach.BusinessInterfaces.csproj",
+      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.BusinessInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7066,8 +7066,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
-              "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
+            "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj": {
+              "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Models\\Phynd.Outreach.Models.csproj"
             }
           }
         }

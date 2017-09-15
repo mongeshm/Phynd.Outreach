@@ -9770,15 +9770,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ashwinb\\.nuget\\packages\\": {}
+    "C:\\Users\\mongeshm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Web\\Phynd.Outreach.Web.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Web\\Phynd.Outreach.Web.csproj",
       "projectName": "Phynd.Outreach.Web",
-      "projectPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Web\\Phynd.Outreach.Web.csproj",
-      "outputPath": "D:\\Outreach\\Phynd.Outreach\\Phynd.Outreach.Web\\obj\\",
+      "projectPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Web\\Phynd.Outreach.Web.csproj",
+      "outputPath": "D:\\SourceCode\\Phynd.Outreach\\Phynd.Outreach.Web\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
