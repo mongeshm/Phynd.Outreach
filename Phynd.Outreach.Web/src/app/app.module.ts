@@ -4,6 +4,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpModule, JsonpModule } from '@angular/http';
 import { DropDownsModule } from '@progress/kendo-angular-dropdowns';
 import { AppComponent } from './app.component';
+import { ButtonsModule } from '@progress/kendo-angular-buttons';
 
 @NgModule({
     imports: [
@@ -11,7 +12,8 @@ import { AppComponent } from './app.component';
         BrowserAnimationsModule,
         HttpModule,
         JsonpModule,
-        DropDownsModule
+        DropDownsModule,
+        ButtonsModule
     ],
     declarations: [
         AppComponent

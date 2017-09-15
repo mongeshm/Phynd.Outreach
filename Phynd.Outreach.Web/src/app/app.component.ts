@@ -11,9 +11,9 @@ import { outreachService } from './outreachservice/outreachservice.service';
 })
 export class AppComponent {
     title = 'app';
-    //onButtonClick() {
-    //    this.title = 'Hello from Kendo UI!';
-    //}
+    onButtonClick() {
+        this.title = 'Hello from Kendo UI!';
+    }
     public events: string[] = [];
     public source: Array<string> = ["Albania", "Andorra", "Armenia", "Austria", "Azerbaijan"];
     public data: Array<string>;
